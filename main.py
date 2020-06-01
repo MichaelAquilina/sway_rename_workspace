@@ -17,6 +17,7 @@ GLYPH_MAP = {
     "Spotify": "",
     "steam": "",
     "zoom": "",
+    "org.gnome.Nautilus": "",
 }
 
 def rename_workspaces(i3, _):
